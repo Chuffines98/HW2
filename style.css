@@ -1,0 +1,22 @@
+body { background: grey; }
+
+body { background: grey; font-family: "italic"; }
+
+h1 { text-align:center; font-weight:bold; font-style:italic; background: white }
+
+h2 { text-align:center; font-weight:bold; font-style:italic; background: white }
+
+table, th, td { border: 1px solid black; }
+
+.familia {
+    color: red;
+    font-weight: bold;
+}
+
+img {
+  width: 300px;
+  border: 15px solid black;
+  padding: 50px;
+  margin: 20px;
+}
+
